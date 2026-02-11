@@ -1,4 +1,4 @@
-# 🚀 Rolando Gonzalez
+# 🚀 Hi, I'm Rolando Gonzalez
 
 **Data & AI/ML Engineer** | Miami, FL
 
@@ -41,20 +41,21 @@ Data Pipelines, ETL/ELT, Database Design, Big Data Tech
 
 - **Architected & Deployed**: Scaled ML models on AWS SageMaker for production environments
 - **Optimization**: Reduced data pipeline processing time by 40% through efficient query design
-  - **API Development**: Built RESTful APIs using FastAPI serving 1000+ requests/day
-    - **Mentorship**: Guided junior engineers in ML best practices and cloud architecture
+- **API Development**: Built RESTful APIs using FastAPI serving 1000+ requests/day
+- **Mentorship**: Guided junior engineers in ML best practices and cloud architecture
      
-      - ---
+- ---
 
-      ## 🎓 Education & Certifications
+## 🎓 Education & Certifications
 
-      - HashiCorp Certified Terraform Associate
-      - Proficient in ML Frameworks: PyTorch, TensorFlow, Scikit-learn
-        - Focus: Continuous pursuit of AWS and advanced AI/ML certifications
+- Certified Azure Cloud, SQL Server
+- Proficient in AWS Cloud and HashiCorp Terraform
+- Proficient in ML Frameworks: PyTorch, TensorFlow, Scikit-learn
+- Focus: Continuous pursuit of AWS and advanced AI/ML certifications
          
-          - ---
+- ---
 
-          ## 📫 Let's Connect
+## 📫 Let's Connect
 
 I'm always open to discussing AI/ML projects, cloud architecture, and mentorship opportunities.
 
@@ -65,19 +66,16 @@ I'm always open to discussing AI/ML projects, cloud architecture, and mentorship
 
 ## 💻 Tech Stack & Skills
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![SQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![AlwaysOn](https://img.shields.io/badge/AlwaysOn-0078D4?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
