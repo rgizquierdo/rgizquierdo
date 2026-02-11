@@ -16,13 +16,13 @@ Results-driven Data & AI/ML Engineer with expertise in designing and implementin
 Deep Learning, LLMs, Model Optimization, NLP, Computer Vision, Feature Engineering
 
 ### Cloud & Infrastructure
-AWS (EC2, S3, Lambda, SageMaker), Docker, Kubernetes, CI/CD, IaC
+AWS (Bedrock,SageMaker,Lambda,EC2,S3, AIM), Azure, Docker, CI/CD, IaC
 
 ### Software Development
 Python, SQL, JavaScript, FastAPI, Django, Git, RESTful APIs
 
 ### Data Engineering
-Data Pipelines, ETL/ELT, Database Design, Big Data Tech
+Data Pipelines,SQLServer SSIS ,ETL/ELT, Database Design, Big Data Tech
 
 ---
 
