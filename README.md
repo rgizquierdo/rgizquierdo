@@ -40,26 +40,25 @@ Data Pipelines, ETL/ELT, Database Design, Big Data Tech
 ## 🏆 Experience Highlights
 
 - **Architected & Deployed**: Scaled ML models on AWS SageMaker for production environments
-- - **Optimization**: Reduced data pipeline processing time by 40% through efficient query design
-  - - **API Development**: Built RESTful APIs using FastAPI serving 1000+ requests/day
-    - - **Mentorship**: Guided junior engineers in ML best practices and cloud architecture
+- **Optimization**: Reduced data pipeline processing time by 40% through efficient query design
+  - **API Development**: Built RESTful APIs using FastAPI serving 1000+ requests/day
+    - **Mentorship**: Guided junior engineers in ML best practices and cloud architecture
      
       - ---
 
       ## 🎓 Education & Certifications
 
       - HashiCorp Certified Terraform Associate
-      - - Proficient in ML Frameworks: PyTorch, TensorFlow, Scikit-learn
-        - - Focus: Continuous pursuit of AWS and advanced AI/ML certifications
+      - Proficient in ML Frameworks: PyTorch, TensorFlow, Scikit-learn
+        - Focus: Continuous pursuit of AWS and advanced AI/ML certifications
          
           - ---
 
           ## 📫 Let's Connect
 
-          I'm always open to discussing AI/ML projects, cloud architecture, and mentorship opportunities.
+I'm always open to discussing AI/ML projects, cloud architecture, and mentorship opportunities.
 
-          - **LinkedIn**: [roland-gonzalez-ai](https://www.linkedin.com/in/roland-gonzalez-ai)
-          - - **GitHub**: [@rgizquierdo](https://github.com/rgizquierdo)
+- **LinkedIn**: [roland-gonzalez-ai](https://www.linkedin.com/in/roland-gonzalez-ai)          *GitHub**: [@rgizquierdo]- **GitHub**: [@rgizquierdo](https://github.com/rgizquierdo)
 
 
 ---
